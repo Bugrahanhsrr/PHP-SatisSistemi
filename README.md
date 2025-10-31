@@ -1,4 +1,3 @@
-# Ürün Satış Sistemi - Neo Glass Koyu Tema
 
 Buğrahan Hasarı
 
@@ -123,4 +122,5 @@ Yeni bir sipariş verildiğinde:
 ## Lisans
 
 Bu proje açık kaynaklıdır ve kullanıma açıktır.
+
 
